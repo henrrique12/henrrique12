@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou aprendendo um pouco sobre Sistemas embarcados
 - 👯 Estou procurando colobarar com meu desenvolvimento pessoal e empressarial visando o crescimento das minhas concedentes
-- 😄 Apelido: Lulu
 
 <div>
   <a href="https://github.com/henrrique12/github-readme-stats">
